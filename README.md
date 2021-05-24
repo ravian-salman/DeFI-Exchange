@@ -1,4 +1,4 @@
-"# DeFI-Exchange
+# DeFI-Exchange
 
 <h3> Development Guide </h3>
 <h5>How to build and run locally</h5>
@@ -30,9 +30,6 @@
         <td>deFi-Exchange</td>
         <td>0x72EF1feB4f188E69DaFFEeaDF85C43Fd0c2fF1e8</td>
     </tr>
-
-
-
   <tr> 
     <td> Reach us out: </td>
     <td> ravian.salman@hotmail.com </td>
@@ -50,5 +47,5 @@ All SmartContracts are deployed on Ropsten Testnet.
 Pull requests are always welcome. If you found any issues while using our DApp, please report using the Issues tab on Github.
 
 <h3> Questions or Concerns? </h3>
-Since this is alpha software, we highly encourage you to test it, use it and try to break it. We would love your feedback if you get stuck somewhere or you think something is not working the way it should be. Please open an issue if you need to report a bug or would like to leave a suggestion. Pull requests are welcome."
+Since this is alpha software, we highly encourage you to test it, use it and try to break it. We would love your feedback if you get stuck somewhere or you think something is not working the way it should be. Please open an issue if you need to report a bug or would like to leave a suggestion. Pull requests are welcome.
 
