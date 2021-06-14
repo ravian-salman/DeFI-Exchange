@@ -17,18 +17,10 @@
     <td> Developed By </td>
     <td> Salman Haider </td>
   </tr>
-   <tr>
-        <td>FunCoupon ERC20</td>
-        <td>0x3792Aa591B5401dd1e50165942F6369511e9b403</td>
     </tr>
         <tr>
-        <td>DAppToken ERC20</td>
-        <td>0x975DdD984F6F5eB1C6a97F0d4AC3f9a6ae278B73</td>
-    </tr>
-    </tr>
-        <tr>
-        <td>deFi-Exchange</td>
-        <td>0x72EF1feB4f188E69DaFFEeaDF85C43Fd0c2fF1e8</td>
+        <td>StakingContract</td>
+        <td>0x15430fa0F37B86fC47db071Abf35763Ed1119254</td>
     </tr>
   <tr> 
     <td> Reach us out: </td>
@@ -43,7 +35,7 @@
     <td> TelGates Inc. </td>
   </tr>
  </table>
-All SmartContracts are deployed on Ropsten Testnet.
+All SmartContracts are deployed on any network.
 Pull requests are always welcome. If you found any issues while using our DApp, please report using the Issues tab on Github.
 
 <h3> Questions or Concerns? </h3>
